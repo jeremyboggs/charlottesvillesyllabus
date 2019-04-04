@@ -4,8 +4,8 @@ title: Home
 ---
 
 {% for page in site.annotations %}
-<div class="bibiography">
+<article class="bibiography">
 <p class="citation">“<a href="{{ page.url }}">{{ page.title }}</a>,” by {{ page.author_first }} {{ page.author_last }}. <em>{{ page.publication }}</em>, {{ page.publication_date }}</p>
 <p>{{ page.content }}</p>
-</div>
+</article>
 {% endfor %}
