@@ -1,7 +1,8 @@
 ---
 title: "Excuse me, America, your house is on fire: Lessons from Charlottesville on the KKK and “alt-right”"
-author_first: Jalane
-author_last: Schmidt
+creators:
+  - last_name: Schmidt
+    first_name: Jalane
 publication: Medium
 publication_date: 2017-06-27
 tags:

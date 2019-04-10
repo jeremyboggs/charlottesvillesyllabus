@@ -1,8 +1,9 @@
 ---
 layout: annotation
 title: Why Richard Spencer Matters
-author_last: Bouie
-author_first: Jamelle
+creators:
+  - last_name: Bouie
+    first_name: Jamelle
 publication: Slate
 publication_date: 2017-05-22
 url: https://slate.com/news-and-politics/2017/05/why-richard
